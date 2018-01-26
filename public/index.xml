@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dhaivat - ML</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Dhaivat - ML</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 22 Jan 2018 11:59:34 -0500</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Forecasting timeseries: ARIMA Models and LSTMs</title>
+      <link>http://example.org/posts/timeseries_lstms/</link>
+      <pubDate>Mon, 22 Jan 2018 11:59:34 -0500</pubDate>
+      
+      <guid>http://example.org/posts/timeseries_lstms/</guid>
+      <description>header .bg-black { display: none; } footer { display: none; }  Dhaivat Pandya
+Timeseries analysis has been around for quite a while and there are many statistical techniques used to analyze and forecast timeseries. Traditional statistical techniques within this area include ARIMA models, seasonality correction techniques, etc. that are generally quite parsimonious in number of parameters.
+It&amp;rsquo;s interesting to consider how modern deep learning methods can be applied to timeseries forecasting problems.</description>
+    </item>
+    
+  </channel>
+</rss>
